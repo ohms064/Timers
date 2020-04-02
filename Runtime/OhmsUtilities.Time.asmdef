@@ -1,0 +1,15 @@
+{
+    "name": "OhmsUtilities.Time",
+    "references": [
+        "GUID:aafcca7f7d5374419bf1e593df50a4cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
